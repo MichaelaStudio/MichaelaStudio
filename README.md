@@ -1,15 +1,22 @@
-# 👋 Hi, I'm Michaela  
+<!-- ========================= -->
+<!-- Michaela GitHub Overview -->
+<!-- ========================= -->
 
-### 💻 A Passionate Frontend Developer from Ethiopia 🇪🇹  
+<h1 align="center">👋 Hi, I'm Michaela</h1>
+
+<h3 align="center">💻 A Passionate Frontend Developer from Ethiopia 🇪🇹</h3>
 
 ---
 
 ## 🧠 About Me  
-I’m **Michaela**, a **frontend developer** who loves turning creative ideas into beautiful and functional web experiences.  
-I enjoy working with modern web technologies and constantly learning to improve my craft.  
 
-🚀 Currently learning **Python** and building personal projects.  
-🎯 Goal: To become a full-stack developer and contribute to impactful projects.  
+I'm **Michaela**, a creative and detail-oriented **frontend developer** who loves building user-friendly and visually stunning websites.  
+I enjoy learning new technologies and improving my coding skills every day.  
+
+- 🚀 Currently working on **Python projects**
+- 🎯 Learning **HTML**, **CSS**, **React**, and **Python**
+- 🌱 Exploring modern frontend tools and UI design
+- ⚡ Fun fact: *Python and I are in a long-term relationship 🐍💘*
 
 ---
 
@@ -27,6 +34,36 @@ I enjoy working with modern web technologies and constantly learning to improve 
 
 ---
 
+## 🧩 GitHub Overview  
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/MichaelaStudio" width="120" style="border-radius:50%" alt="Michaela Profile"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MichaelaStudio">
+    <img src="https://github-readme-stats.vercel.app/api?username=MichaelaStudio&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MichaelaStudio">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelaStudio&layout=compact&theme=tokyonight" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github-readme-streak-stats.herokuapp.com?user=MichaelaStudio&theme=tokyonight">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=MichaelaStudio&theme=tokyonight" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <b>🏆 GitHub Rank:</b> <span style="color:#FFD700;">B+</span>  
+</p>
+
+---
+
 ## 📬 Contact Me  
 
 <p align="center">
@@ -36,8 +73,11 @@ I enjoy working with modern web technologies and constantly learning to improve 
   <a href="https://t.me/yourtelegramusername" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
+  <a href="https://github.com/MichaelaStudio" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ---
 
-⭐️ *Thanks for visiting my profile! Let’s connect and create something awesome together.*
+⭐️ *Thanks for visiting my profile! Let's build something amazing together.*
