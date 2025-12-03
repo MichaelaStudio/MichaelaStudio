@@ -31,7 +31,12 @@ I enjoy learning new technologies and improving my coding skills every day.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-  <img src="./js-logo.svg" alt="JavaScript" width="64"/>
+  <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" aria-label="JavaScript">
+  <rect rx="14" width="120" height="120" fill="#F7DF1E"/>
+  <text x="50%" y="55%" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="58" text-anchor="middle" fill="#000" dy=".12em">JS</text>
+</svg>
+
+
 
 
   
