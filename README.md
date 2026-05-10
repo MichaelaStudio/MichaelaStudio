@@ -1,5 +1,7 @@
-# 👋 Hi, I'm Michaela  
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/1ad5080b-01f6-4bca-ba63-3d44481fcaba" />
 
+
+# 👋 Hi, I'm Michaela  
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Computer+Science+Student;Building+Modern+Web+Apps;Always+Learning+New+Things" />
 </p>
